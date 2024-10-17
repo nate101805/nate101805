@@ -57,4 +57,3 @@ estimate_date = '10/01/23'
 estimated_price, future_predictions = estimate_price(estimate_date, forecast_years=1)
 
 estimated_price, future_predictions
-
